@@ -20,3 +20,10 @@ Buscar TF_PYHON_URL> https://www.tensorflow.org/install/install_linux#the_url_of
 ```{r, engine='bash', count_lines}
 (tensorflow)$ pip install --ignore-installed --upgrade TF_PYTHON_URL
 ```
+
+
+#Para usar Inception retrain
+1. Clonar repositorio
+```{r, engine='bash', count_lines}
+git clone https://github.com/tensorflow/tensorflow.git
+```
